@@ -10,8 +10,14 @@ navbar:
       href: about.html
     - text: "Resume"
       href: resume.html
+  right:
+    - icon: fa-github
+      href: https://github.com/yourusername
+    - icon: fa-linkedin
+      href: https://linkedin.com/in/yourprofile
 output:
   html_document:
-    theme: cosmo     # Choose a theme: cerulean, flatly, etc.
-    css: styles.css  # Optional custom CSS
+    theme: cosmo
+    css: styles.css
     toc: false
+    highlight: textmate
