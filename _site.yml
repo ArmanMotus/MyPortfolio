@@ -15,4 +15,5 @@ output:
     theme: cosmo
     css: styles.css
     toc: false
-    
+    includes:
+      after_body: footer.html
