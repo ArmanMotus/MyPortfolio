@@ -1,0 +1,122 @@
+---
+title: "Resume"
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Arman Manjian  
+### **R/Shiny Developer | Data Engineer**  
+📧 arman.manjian.mob@gmail.com  
+
+---
+
+## 📌 Summary  
+Results-driven **Data Engineer** and **R/Shiny Developer** with over **4 years of experience** in:  
+✔ Developing interactive **dashboards** and **data visualization** solutions.  
+✔ Leveraging **R, Python, SQL, and AWS** for scalable data-driven applications.  
+✔ Project management and Agile methodologies.  
+
+Proven ability to **streamline workflows, optimize data processes, and lead high-impact projects**.
+
+---
+
+## 💼 Experience  
+
+### **Senior R Shiny Developer**  
+📍 *Datamotus | 01/2021 - Present | Yerevan, Armenia*  
+- Designed **scalable R Shiny applications** for data visualization.  
+- Developed **interactive dashboards** with advanced statistical analysis.  
+- Customized UI/UX using **CSS, JavaScript, and Shiny.semantic**.  
+- Implemented **Git & Docker** for version control and deployment.  
+- Led R/Shiny **workshops** for knowledge-sharing and team upskilling.  
+
+### **Data Engineer**  
+📍 *Datamotus | 05/2022 - Present | Yerevan, Armenia*  
+- Optimized **Shiny applications** for **high-traffic environments**.  
+- Integrated **PostgreSQL, MongoDB**, and **AWS** for data storage and analytics.  
+- Developed and deployed **data pipelines** for automated data processing.  
+- Applied **machine learning models** using R and Python.  
+
+### **Project Manager**  
+📍 *Datamotus | 01/2023 - Present | Yerevan, Armenia*  
+- Managed cross-functional teams to deliver **data-driven solutions**.  
+- Applied **Agile methodologies** to enhance project execution.  
+- Used **JIRA** for sprint planning, issue tracking, and progress monitoring.  
+- Trained team members in **advanced R programming** and **Shiny app development**.  
+
+---
+
+## 🎓 Education  
+
+🎓 **Bachelor in Engineering Sciences**  
+📍 *American University of Armenia (2020 - 2024)*  
+
+🎓 **Bachelor in Mechatronics Engineering**  
+📍 *Tishreen University, Syria (2010 - 2015)*  
+
+---
+
+## 🚀 Key Projects  
+
+### **1️⃣ Reporting Dashboard with Vega-Altair Visualizations**  
+📍 *Nov 2023 - May 2024 | Yerevan, Armenia*  
+🔹 Built a **Shiny dashboard** for survey reporting with **Vega-Altair** interactive visualizations.  
+🔹 Integrated **AI-driven insights** for enhanced data analysis and automation.  
+🔹 Deployed application on **Shinyapps.io** and **Azure**, ensuring integration with JavaScript-based platforms.  
+
+### **2️⃣ Data Cleaning and Report Generation App**  
+📍 *Mar 2023 - Oct 2023 | Yerevan, Armenia*  
+🔹 Developed a **Shiny app** connected to **AWS Athena** & **S3** for large-scale data cleaning.  
+🔹 Automated **Excel, HTML, and PDF report** generation.  
+🔹 Containerized the app using **Docker** for deployment on Linux servers.  
+
+### **3️⃣ Live Lab Reports Generation & Visualization**  
+📍 *Feb 2022 - Feb 2023 | Yerevan, Armenia*  
+🔹 Created an **R Shiny application** for **data processing, visualization, and automated report generation**.  
+🔹 Integrated **template-based PDF report automation**.  
+🔹 Deployed via **Docker on CentOS** for a high-performance production environment.  
+
+### **4️⃣ Statistical Reporting App with R Shiny**  
+📍 *Jan 2021 - Jan 2022 | Yerevan, Armenia*  
+🔹 Built a **Shiny app** for **real-time statistical analysis & predictive modeling**.  
+🔹 Automated **report generation** in **Word and HTML** formats.  
+🔹 Deployed via **Docker on Linux servers**.  
+
+---
+
+## 🛠 Skills  
+
+✅ **Programming**:  
+✔ R / R Shiny | Python | SQL | MongoDB | JavaScript | CSS | HTML | C++  
+
+✅ **Data & Cloud**:  
+✔ AWS | PostgreSQL | Docker | Git | Shinyapps.io  
+
+✅ **Tools & Frameworks**:  
+✔ Vega-Altair | Plotly | Tidyverse | Leaflet | Shiny.semantic | JIRA  
+
+✅ **Hardware & Engineering**:  
+✔ CAD | Arduino & Electronics  
+
+---
+
+## 🌟 Certifications  
+
+🏅 **AWS Certified Cloud Practitioner**  
+🏅 **Multiple DataCamp Certifications in R, Python, and Data Engineering**  
+
+---
+
+## 📬 Contact  
+
+📧 **Email**: arman.manjian.mob@gmail.com  
+🔗 **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
+🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
