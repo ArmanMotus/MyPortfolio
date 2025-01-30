@@ -1,0 +1,17 @@
+---
+title: "About Me"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Your Photo](images/profile.jpg){width=200}
+
+Hi! I’m Jane Doe, an R/Shiny developer with 3+ years of experience building data-driven apps.  
+I specialize in turning complex datasets into user-friendly tools.
+
+**Contact**:  
+- Email: jane.doe@email.com  
+- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)

@@ -1,0 +1,22 @@
+---
+title: "Home"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Welcome to My Portfolio! 👋
+
+I’m a **Shiny/R developer** passionate about building interactive data applications.  
+Here you’ll find my projects, technical skills, and case studies.
+
+### Featured Projects
+- [COVID-19 Dashboard](/projects.html#covid)
+- [Machine Learning Explorer](/projects.html#ml)
+- [Real-Time Stock Analyzer](/projects.html#stocks)
+
+### Skills
+- **R/Shiny**, ggplot2, dplyr, plotly  
+- **Databases**: SQL, PostgreSQL  
+- **DevOps**: Docker, GitHub Actions

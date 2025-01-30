@@ -1,0 +1,29 @@
+---
+title: "Projects"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Project 1: COVID-19 Dashboard {#covid}
+
+[**Live Demo**](https://your-shiny-app.shinyapps.io/covid-dashboard) | 
+[**Code**](https://github.com/yourusername/covid-dashboard)
+
+![](images/covid-dashboard-screenshot.png){width=600}
+
+**Description**: Interactive dashboard tracking COVID-19 cases globally.  
+**Tech Stack**: `shiny`, `leaflet`, `plotly`, `tidyverse`.
+
+---
+
+## Project 2: Machine Learning Explorer {#ml}
+
+[**Live Demo**](https://your-shiny-app.shinyapps.io/ml-explorer) | 
+[**Code**](https://github.com/yourusername/ml-explorer)
+
+![](images/ml-screenshot.gif){width=600}
+
+**Description**: App for visualizing ML model performance.  
+**Tech Stack**: `shiny`, `caret`, `ggplot2`.

@@ -1,0 +1,17 @@
+name: "My Shiny Portfolio"
+navbar:
+  title: "My Portfolio"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "About Me"
+      href: about.html
+    - text: "Resume"
+      href: resume.html
+output:
+  html_document:
+    theme: cosmo     # Choose a theme: cerulean, flatly, etc.
+    css: styles.css  # Optional custom CSS
+    toc: false
