@@ -1,17 +1,28 @@
 name: "My Shiny Portfolio"
 navbar:
-  title: "My Portfolio"
+  title: "Arman Manjian"
+  logo: "logo.png"  # Add a custom logo for branding
   left:
-    - text: "Home"
+    - text: "🏠 Home"
       href: index.html
-    - text: "Projects"
+    - text: "📂 Projects"
       href: projects.html
-    - text: "About Me"
+    - text: "🧑‍💻 About Me"
       href: about.html
-    - text: "Resume"
+    - text: "📄 Resume"
       href: resume.html
+  right:
+    - text: "📧 Contact"
+      href: contact.html
+    - icon: "fab fa-linkedin"
+      href: "https://www.linkedin.com/in/armanmanjian"
+    - icon: "fab fa-github"
+      href: "https://github.com/armanmanjian"
+
 output:
   html_document:
-    theme: cosmo     # Choose a theme: cerulean, flatly, etc.
-    css: styles.css  # Optional custom CSS
-    toc: false
+    theme: flatly  # A clean, modern look (try lux, darkly, or litera for variations)
+    css: styles.css  # Ensure a sleek, minimalistic CSS design
+    toc: true  # Enable table of contents for easy navigation
+    toc_float: true  # Floating TOC for better accessibility
+    highlight: textmate  # Code highlighting for technical projects
