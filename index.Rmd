@@ -11,51 +11,12 @@ knitr::opts_chunk$set(echo = FALSE)
 I’m a **Shiny/R developer** passionate about building interactive data applications.  
 Here you’ll find my projects, technical skills, and case studies.
 
----
+### Featured Projects
+- [COVID-19 Dashboard](/projects.html#covid)
+- [Machine Learning Explorer](/projects.html#ml)
+- [Real-Time Stock Analyzer](/projects.html#stocks)
 
-## Featured Projects
-
-<div class="project-grid">
-  <div class="project-card">
-    <h3>COVID-19 Dashboard</h3>
-    <p>Interactive dashboard tracking COVID-19 cases globally.</p>
-    <a href="projects.html#covid" class="btn">View Project</a>
-  </div>
-  <div class="project-card">
-    <h3>Machine Learning Explorer</h3>
-    <p>App for visualizing ML model performance.</p>
-    <a href="projects.html#ml" class="btn">View Project</a>
-  </div>
-  <div class="project-card">
-    <h3>Real-Time Stock Analyzer</h3>
-    <p>Analyze stock trends in real-time.</p>
-    <a href="projects.html#stocks" class="btn">View Project</a>
-  </div>
-</div>
-
----
-
-## Skills
-
-<div class="skills-grid">
-  <div class="skill-card">
-    <h4>R/Shiny</h4>
-    <p>Building interactive dashboards and data apps.</p>
-  </div>
-  <div class="skill-card">
-    <h4>Data Visualization</h4>
-    <p>Using ggplot2, plotly, and leaflet.</p>
-  </div>
-  <div class="skill-card">
-    <h4>Databases</h4>
-    <p>SQL, PostgreSQL, and data integration.</p>
-  </div>
-</div>
-
----
-
-## Contact Me
-
-- **Email**: your.email@example.com  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+### Skills
+- **R/Shiny**, ggplot2, dplyr, plotly  
+- **Databases**: SQL, PostgreSQL  
+- **DevOps**: Docker, GitHub Actions
