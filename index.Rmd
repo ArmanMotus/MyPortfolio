@@ -17,9 +17,9 @@ Here you’ll find my projects, technical skills, and case studies.
 - [Real-Time Stock Analyzer](/projects.html#stocks)
 
 ### Skills
-- <i class="fas fa-code"></i> **R/Shiny**, ggplot2, dplyr, plotly  
-- <i class="fas fa-database"></i> **Databases**: SQL, PostgreSQL  
-- <i class="fas fa-cogs"></i> **DevOps**: Docker, GitHub Actions
+- **R/Shiny**, ggplot2, dplyr, plotly  
+- **Databases**: SQL, PostgreSQL  
+- **DevOps**: Docker, GitHub Actions
 
 <footer>
   <p>© 2023 Arman Manjian. All rights reserved.</p>
